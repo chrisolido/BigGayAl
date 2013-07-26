@@ -1,0 +1,4 @@
+[14-Jan-2013 11:54:11] PHP Fatal error:  Call to undefined function  get_header() in /home/fblog/public_html/blog/wp-content/plugins/wptouch/themes/default/index.php on line 1
+[14-Jan-2013 11:54:12] PHP Fatal error:  Call to undefined function  get_header() in /home/fblog/public_html/blog/wp-content/plugins/wptouch/themes/default/index.php on line 1
+[19-Jan-2013 11:49:48] PHP Fatal error:  Call to undefined function  get_header() in /home/fblog/public_html/blog/wp-content/plugins/wptouch/themes/default/index.php on line 1
+[19-Jan-2013 11:49:49] PHP Fatal error:  Call to undefined function  get_header() in /home/fblog/public_html/blog/wp-content/plugins/wptouch/themes/default/index.php on line 1
